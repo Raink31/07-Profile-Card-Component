@@ -15,7 +15,7 @@ Your challenge is to build out this card component and get it looking as close t
 
 ## Links
 
-- Solution URL: --
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-challenge-responsive-solution-html-and-css-BNAgC-y6ff
 - Live Site URL: https://raink31.github.io/07-Profile-Card-Component/
 
 ## Built with
