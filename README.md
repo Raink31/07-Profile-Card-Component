@@ -16,7 +16,7 @@ Your challenge is to build out this card component and get it looking as close t
 ## Links
 
 - Solution URL: --
-- Live Site URL: --
+- Live Site URL: https://raink31.github.io/07-Profile-Card-Component/
 
 ## Built with
 
